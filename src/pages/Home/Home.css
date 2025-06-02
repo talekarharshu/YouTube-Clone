@@ -1,0 +1,36 @@
+<<<<<<< HEAD
+.container{
+    background: #f9f9f9;
+    padding-left: 17%;
+    padding-right: 2%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.large-container{
+    padding-left: 7%;
+}
+
+@media (max-width:900px){
+    .large-container , .container{
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+=======
+.container{
+    background: #f9f9f9;
+    padding-left: 17%;
+    padding-right: 2%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.large-container{
+    padding-left: 7%;
+}
+
+@media (max-width:900px){
+    .large-container , .container{
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+>>>>>>> 66fc2260feb470c2f9e33b1133c8081375e24c94
+}
